@@ -210,5 +210,5 @@ Lo miras muy asustado. """
     choripan("HAZ MUERTO")
     choripan("FIN DE LA HISTORIA")
     final=input("¿Deseas Reiniciar la Historia? (si) (no): ")
-    if final=="si" or final=="yes" or final == "1":
+    if final=="si" or final=="yes" or final == 1:
         break
